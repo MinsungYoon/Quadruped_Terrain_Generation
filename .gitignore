@@ -4,3 +4,4 @@ log/*
 result_eval/*
 result_train/*
 __pycache__/*
+.gitkeep
