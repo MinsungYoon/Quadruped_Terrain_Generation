@@ -4,4 +4,8 @@ log/*
 result_eval/*
 result_train/*
 __pycache__/*
-.gitkeep
+!data/terrain/test_images/.gitkeep
+!data/terrain/train_images/.gitkeep
+!log/.gitkeep
+!result_eval/.gitkeep
+!result_train/.gitkeep
