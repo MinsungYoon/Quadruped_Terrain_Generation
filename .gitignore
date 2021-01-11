@@ -1,0 +1,6 @@
+data/terrain/test_images/*
+data/terrain/train_images/*
+log/*
+result_eval/*
+result_train/*
+__pycache__/*
